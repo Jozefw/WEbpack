@@ -1,0 +1,24 @@
+*{margin:0;padding:0}
+
+#first{
+    background:teal;
+}
+#second{
+    background:salmon;
+}
+#third{
+    background:grey;
+}
+
+body{
+    font-size: 24px;
+    line-height: 60px;
+    text-align: center;
+    color: whitesmoke;
+    background:url("../img/logo-on-white-bg.png");
+    background-size: 400px;
+    background-repeat: repeat-x repeat-y
+}
+p{
+    margin:100px;
+}
